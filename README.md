@@ -94,4 +94,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Replace `[<repository-url>](https://github.com/Cedar-81/swype-api/)` with the actual URL of your repository.
+Replace https://github.com/Cedar-81/swype-api/ with the actual URL of your repository.
