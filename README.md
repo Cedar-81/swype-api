@@ -1,8 +1,8 @@
-#Swype API
+# Swype API
 
 So glad I was able to build my first api with go, it was quite an interesting process to say the least.
 
-##Available Routes
+## Available Routes
 
 //handle post routes
 	r.GET("/posts", middleware.RequireAuth, controllers.GetPosts)
