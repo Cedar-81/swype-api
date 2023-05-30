@@ -19,7 +19,7 @@ To run this API locally, you need to set the following environment variables in 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Cedar-81/swype-api
 ```
 
 2. Install the dependencies:
@@ -34,6 +34,12 @@ go mod download
 
 ```bash
 go run main.go
+```
+
+5. Run imgrations:
+
+```bash
+go run ./migrate/migrate.go
 ```
 
 The API will be accessible at `http://localhost:<PORT>`.
