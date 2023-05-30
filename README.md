@@ -93,5 +93,3 @@ Feel free to modify the routes and their corresponding handlers according to you
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Replace https://github.com/Cedar-81/swype-api/ with the actual URL of your repository.
