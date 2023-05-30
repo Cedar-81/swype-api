@@ -4,7 +4,7 @@ So glad I was able to build my first api with go, it was quite an interesting pr
 
 ## Available Routes
 
-//handle post routes
+	//handle post routes
 	r.GET("/posts", middleware.RequireAuth, controllers.GetPosts)
 	r.GET("/post/:id", middleware.RequireAuth, controllers.GetPost)
 	r.POST("/post", middleware.RequireAuth, controllers.CreatePost)
