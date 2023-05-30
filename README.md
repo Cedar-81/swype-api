@@ -1,8 +1,8 @@
 # Swype API (mock social media api)
 
-### Built With Go Lang Gin API with GORM ORM
+### Built With GoLang, Gin and GORM ORM
 
-This is a Go lang API project built with Gin framework and using GORM as the ORM.
+This is a Golang API project built with Gin framework and using GORM as the ORM.
 
 ## Requirements
 
